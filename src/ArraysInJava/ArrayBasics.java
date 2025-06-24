@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysInJava;
 import java.util.Scanner;
 public class ArrayBasics {
     public static void main(String[] args) {
