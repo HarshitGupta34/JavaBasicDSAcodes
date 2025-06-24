@@ -13,6 +13,7 @@ public class searchInArray {
         for (int i=0 ;i<arr.length ;i++){
             if (arr[i]==num){
                 System.out.println("Number found at index :" + i);
+                break;
             }
 
         }
